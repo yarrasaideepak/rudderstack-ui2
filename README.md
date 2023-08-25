@@ -1,3 +1,15 @@
+To fetch the tracking plan 
+
+![image](https://github.com/yarrasaideepak/rudderstack-ui2/assets/28479706/07eaa23a-711b-4a2d-8cb3-f81f468c8a6a)
+
+To add tracking plan
+![image](https://github.com/yarrasaideepak/rudderstack-ui2/assets/28479706/c34007b2-ee41-49dc-80ec-6312ce04e907)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
